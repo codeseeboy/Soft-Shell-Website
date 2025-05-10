@@ -4,11 +4,10 @@
 
 This is a responsive single-page marketing website for SoftSell, a fictional software resale startup. The website was built using Next.js as part of a web development internship assignment for Credex.
 
-![SoftSell Website Screenshot](https://via.placeholder.com/800x400)
-
 ## Live Demo
 
-[Live Site URL](#) <!-- Add your deployed site URL when available -->
+[Live Site URL](https://soft-shell-website.vercel.app/)
+[GitHub Repository](https://github.com/codeseeboy/Soft-Shell-Website)
 
 ## Features Implemented
 
@@ -84,13 +83,6 @@ This is a responsive single-page marketing website for SoftSell, a fictional sof
 - Responsive typography
 - Collapsible navigation on smaller screens
 
-## Future Enhancements
-
-- Implement the AI-powered chat feature using OpenAI API
-- Add animations using Framer Motion
-- Create additional pages for detailed service information
-- Implement a real backend for form submissions
-
 ## Time Spent
 
 - Planning and Design: 2 hours
@@ -103,14 +95,7 @@ This is a responsive single-page marketing website for SoftSell, a fictional sof
 
 ## Setup Instructions
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/softsell.git
-cd softsell
-```
-
-2. Install dependencies
+1. Install dependencies
 
 ```bash
 npm install
@@ -118,7 +103,7 @@ npm install
 yarn install
 ```
 
-3. Run the development server
+2. Run the development server
 
 ```bash
 npm run dev
@@ -126,14 +111,16 @@ npm run dev
 yarn dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+3. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 ## Deployment
 
-The site is deployed on [Vercel/Netlify/GitHub Pages]. The deployment process was straightforward using the platform's integration with GitHub.
+The site is deployed on Vercel. The deployment process was straightforward using Vercel's integration with GitHub.
 
 ## Contact
 
 If you have any questions about this implementation, please feel free to reach out.
 
-<!-- Add your contact information if desired -->
+Shashikant Rajput  
+Phone: 9975836366  
+Email: <shashi2005.pvt@gmail.com>
